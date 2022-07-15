@@ -12,7 +12,7 @@ export default function App() {
         <footer>
           This project was created by{" "}
           <a
-            href="https://astounding-nasturtium-470d21.netlify.app/"
+            href="https://velvety-cocada-0047ed.netlify.app/"
             target="_blank"
             rel="noreferrer"
           >
