@@ -20,7 +20,7 @@ export default function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="httfooters://github.com/gloriatoth/react-weather-search"
+            href="https://github.com/gloriatoth/react-weather-search"
             target="_blank"
             rel="noreferrer"
           >
