@@ -1,8 +1,8 @@
 .Weather {
-  border: 1px solid #dadde1;
+  border: 1px solid #efefef;
   border-radius: 4px;
   color: rgb(135, 135, 135);
-  padding: 16px;
+  padding: 32px;
 }
 
 .Weather h1 {
@@ -47,4 +47,14 @@
 
 .Weather .clearfix {
   display: flex;
+}
+
+.Weather .btn {
+  background-color: #a2a8d3;
+  border-color: #a2a8d3;
+}
+
+.Weather .btn:hover {
+  background-color: #38598b;
+  border-color: #38598b;
 }
